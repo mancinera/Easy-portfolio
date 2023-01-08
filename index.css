@@ -63,6 +63,7 @@ footer img{
 }
 
 footer{
+    margin-top: 30px;
     border-top: 2px white solid;
     display: flex;
     justify-content: center;
